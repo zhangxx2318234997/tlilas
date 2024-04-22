@@ -22,10 +22,10 @@ mybatis:
 # 阿里云oss配置
 aliyun:
   oss:
-    endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tCwLBu1LJsi3DCM1mWq
-    accessKeySecret: uNeSmW09CKCDYh8lUMBNGmzZEPxMwa
-    bucketName: springboot-tlias00
+    endpoint: 
+    accessKeyId: 
+    accessKeySecret: 
+    bucketName: 
 #   spring??????
 
 logging:
