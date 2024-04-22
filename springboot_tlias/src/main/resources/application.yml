@@ -22,10 +22,10 @@ mybatis:
 # 阿里云oss配置
 aliyun:
   oss:
-    endpoint: 
-    accessKeyId: 
-    accessKeySecret: 
-    bucketName: 
+    endpoint: # 填自己的
+    accessKeyId: # 填自己的
+    accessKeySecret: # 填自己的
+    bucketName: # 填自己的
 #   spring??????
 
 logging:
